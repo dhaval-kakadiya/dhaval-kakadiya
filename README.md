@@ -2,7 +2,7 @@
 
 As an experienced programmer, I specialize in building robust and scalable RESTful APIs using Node.js. My technical expertise extends to various database systems, including MySQL, MSSQL, and MongoDB, ensuring efficient data management and retrieval.
 Let's collaborate to bring your project to life!
------- Skills and Technologies ------
+## 💻 Skills and Technologies 
 1. Node.js: Proficient in developing server-side applications with a focus on performance and scalability.
 2. Databases: Extensive hands-on experience with MySQL, MSSQL, and MongoDB.
 3. Front-end Development: Skilled in JavaScript and TypeScript, with a strong command of React.js for creating dynamic and responsive user interfaces.
